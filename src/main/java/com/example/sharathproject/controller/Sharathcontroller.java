@@ -8,7 +8,7 @@ public class Sharathcontroller {
 
     @GetMapping("/ust")
     public String hello(){
-        return "Hello!How are you?";
+        return "I am good";
     }
 
 
